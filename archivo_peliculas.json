@@ -1,0 +1,212 @@
+[ 
+  {
+    "titulo": "Inception",
+    "sinopsis": "Dom Cobb es un ladrón con una extraña habilidad para entrar a los sueños de la gente y robarles los secretos de sus subconscientes. Su habilidad lo ha vuelto muy popular en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama. Cobb obtiene la oportunidad de redimirse.",
+    "generos": ["Ciencia ficción"],
+    "año": "2010",
+    "imagen": "imagenes/inception.png"
+  },
+  {
+    "titulo": "Mad Max",
+    "sinopsis": "En un páramo postapocalíptico, una mujer se rebela contra un gobernante tiránico en busca de su patria con la ayuda de un grupo de prisioneras, un adorador psicótico y un vagabundo llamado Max.",
+    "generos": ["Ciencia ficción"],
+    "año": "2015",
+    "imagen": "imagenes/madmax.png"
+  },
+  {
+    "titulo": "Interstellar",
+    "sinopsis": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento de garantizar la supervivencia de la humanidad",
+    "generos": ["Ciencia ficción"],
+    "año": "2014",
+    "imagen": "imagenes/interstellar.png"
+  },
+  {
+    "titulo": "The Dark Knight",
+    "sinopsis": "Cuando la amenaza conocida como el Joker causa estragos y el caos en Gotham City, Batman debe aceptar una de las mayores pruebas psicológicas y físicas para luchar contra la injusticia.",
+    "generos": ["Ciencia ficción"],
+    "año": "2008",
+    "imagen": "imagenes/batman.png"
+  },
+  {
+    "titulo": "Alien, el octavo pasajero",
+    "sinopsis": "La tripulación de una nave espacial comercial se encuentra con una forma de vida mortal tras investigar una transmisión desconocida.",
+    "generos": ["Ciencia ficción"],
+    "año": "1979",
+    "imagen": "imagenes/alien.png"
+  },
+  {
+    "titulo": "Terminator 2: El juicio final",
+    "sinopsis": "Un cyborg, idéntico al que fracasó en su intento de matar a Sarah Connor, debe proteger ahora a su hijo adolescente John de un cyborg más avanzado y poderoso.",
+    "generos": ["Ciencia ficción"],
+    "año": "1991",
+    "imagen": "imagenes/terminator.png"
+  },
+  {
+    "titulo": "El Grinch", 
+    "sinopsis": "¿Quién dijo que la Navidad gustaba a todo el mundo? Jim Carrey encarna al ser más detestable de las fiestas navideñas en esta comedia ganadora de 1 Óscar y firmada por Ron Howard.",
+    "generos": ["Comedia"],
+    "año": "2000",
+    "imagen": "imagenes/grinch.png"
+  }, 
+  {
+    "titulo": "El invisible Harvey", 
+    "sinopsis": "James Stewart era el mejor amigo de un enorme conejo imaginario en esta fantasiosa comedia que adaptaba la obra de teatro homónima de Mary Chase, con la que ganó el Premio Pulitzer.",
+    "generos": ["Comedia"],
+    "año": "1950",
+    "imagen": "imagenes/harvey.png"
+  },
+  {
+    "titulo": "Shrek", 
+    "sinopsis":"Ogros, princesas, dragones y burros parlanchines cautivaron a millones de espectadores en una película que ya se ha convertido en un clásico icónico venerado por varias generaciones.",
+    "generos": ["Comedia"],
+    "año": "2001",
+    "imagen": "imagenes/shrek.png"
+  },
+  {
+    "titulo": "Todo lo demás", 
+    "sinopsis": "Una de las películas más autobiográficas de Woody Allen, si cabe, que toma inspiración en sus inicios como cómico en Nueva York.",
+    "generos": ["Comedia"],
+    "año": "2003",
+    "imagen": "imagenes/todo.png"
+  }, 
+  {
+    "titulo": "Bean, lo último en cine catastrófico", 
+    "sinopsis": "Tras arrasar en la televisión británica, el célebre Mr. Bean aterrizaba finalmente en la gran pantalla con esta descabellada comedia en la que se las tiene que dar de especialista de arte.",
+    "generos": ["Comedia"],
+    "año": "1997",
+    "imagen": "imagenes/bean.png"
+  }, 
+  {
+    "titulo": "The Lost King", 
+    "sinopsis": "La historia de Philippa Langley, la mujer que encontró los restos perdidos de Ricardo III. Una comedia británica en la que se le presenta el mismísimo rey para ayudarla con su búsqueda.",
+    "generos": ["Comedia"],
+    "año": "2022",
+    "imagen": "imagenes/king.png"
+  }, 
+  {
+    "titulo": "Pesadilla en Elm Street", 
+    "sinopsis": "Un viaje de pesadilla sobre un grupo de adolescentes que son cazados, uno a uno, por un siniestro asesino... en sus sueños,el inolvidable Freddy Krueger.",
+    "generos": ["Terror"],
+    "año": "1984",
+    "imagen": "imagenes/pesadilla.png"
+  }, 
+  {
+    "titulo": "La Ejecución", 
+    "sinopsis": "Basada en la inquietante historia real de 'El Carnicero de Rostov', un asesino en serie con más de 50 muertes en su historial que aterrorizó a la Unión Soviética.",
+    "generos": ["Terror"],
+    "año": "2021",
+    "imagen": "imagenes/ejecucion.png"
+  }, 
+  {
+    "titulo": "La sustancia", 
+    "sinopsis": "¿Alguna vez has soñado con una mejor versión de ti? Demi Moore, sí. Ganadora de un Óscar y de un Globo de Oro, no te pierdas la sátira definitiva sobre el culto a la juventud en Hollywood.",
+    "generos": ["Terror"],
+    "año": "2024",
+    "imagen": "imagenes/sustancia.png"
+  }, 
+  {
+    "titulo": "La acompañante", 
+    "sinopsis": "Protagonizada por Sophie Thatcher, una de las nuevas estrellas del cine de terror gracias al triunfo de 'Heretic', llega otro tipo de historia de amor de los creadores de 'Barbarian'.",
+    "generos": ["Terror"],
+    "año": "2025",
+    "imagen": "imagenes/acompañante.png"
+  }, 
+  {
+    "titulo":"La bruja", 
+    "sinopsis": "Ambientada en la década de 1630 en Nueva Inglaterra, una familia está desgarrada por las fuerzas de la brujería, la magia negra y la posesión.",
+    "generos": ["Terror"],
+    "año": "2015",
+    "imagen": "imagenes/bruja.png"
+  }, 
+  {
+    "titulo": "El faro", 
+    "sinopsis": "La historia del guarda de un faro que envejece en los primeros años del siglo 20 en Maine.",
+    "generos": ["Terror"],
+    "año": "2019",
+    "imagen": "imagenes/faro.png"
+  },
+  {
+    "titulo": "La lista de Schindler",
+    "sinopsis": "En la Polonia ocupada por los alemanes durante la Segunda Guerra Mundial, el industrial Oskar Schindler se preocupa por sus trabajadores judíos tras presenciar su persecución por los nazis.",
+    "generos": ["Drama"],
+    "año": "1993",
+    "imagen": "imagenes/schindler.png"
+  },
+  {
+    "titulo": "El padrino",
+    "sinopsis": "El envejecido patriarca de una dinastía del crimen organizado en la ciudad de Nueva York de la posguerra transfiere el control de su imperio clandestino a su reacio hijo menor.",
+    "generos": ["Drama"],
+    "año": "1972",
+    "imagen": "imagenes/padrino.png"
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "sinopsis": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+    "generos": ["Drama"],
+    "año": "1994",
+    "imagen": "imagenes/pulp.png"
+  },
+  {
+    "titulo": "Parásitos",
+    "sinopsis": "La familia Ki-taek, todos desempleados, se ve envuelta en un incidente con la rica y glamurosa familia Parks.",
+    "generos": ["Drama"],
+    "año": "2019",
+    "imagen": "imagenes/parasitos.png"
+  },
+  {
+    "titulo": "American History X",
+    "sinopsis": "Un exmilitante de los skinheads neonazis intenta disuadir a su hermano pequeño de tomar las mismas malas decisiones que él tomó.",
+    "generos": ["Drama"],
+    "año": "1998",
+    "imagen": "imagenes/histroyx.png"
+  },
+  {
+    "titulo": "Salvar al soldado Ryan",
+    "sinopsis": "Tras el desembarco de Normandía, un grupo de soldados estadounidenses cruza las líneas enemigas para rescatar a un paracaidista cuyos hermanos han muerto en combate.",
+    "generos": ["Drama"],
+    "año": "1998",
+    "imagen": "imagenes/ryan.png"
+  },
+  {
+    "titulo": "Robot salvaje",
+    "sinopsis": "La robot Roz, que ha naufragado en una isla deshabitada, debe aprender a adaptarse al duro entorno, forjando poco a poco relaciones con la fauna local y convirtiéndose en madre adoptiva de una cría de ganso huérfana.",
+    "generos": ["Animación"],
+    "año": "2024",
+    "imagen": "imagenes/robot.png"
+  },
+  {
+    "titulo": "Ratatouille",
+    "sinopsis": "Una rata que sabe cocinar establece una inusual alianza con un joven trabajador de la cocina de un famoso restaurante de París.",
+    "generos": ["Animación"],
+    "año": "2007",
+    "imagen": "imagenes/ratatouille.png"
+  },
+  {
+    "titulo": "El extraño mundo de Jack",
+    "sinopsis": "Jack Skellington, el rey de la Ciudad de Halloween, descubre la Ciudad de la Navidad, pero sus intentos de llevar la Navidad a Halloween causan confusión",
+    "generos": ["Animación"],
+    "año": "1993",
+    "imagen": "imagenes/jack.png"
+  },
+  {
+    "titulo": "El cadáver de la novia",
+    "sinopsis": "Cuando un tímido novio practica sus votos matrimoniales ante la presencia inadvertida de una joven fallecida, esta se levanta de la tumba asumiendo que la ha tomado por esposa.",
+    "generos": ["Animación"],
+    "año": "2005",
+    "imagen": "imagenes/novia.png"
+  },
+  {
+    "titulo": "El espanta tiburones",
+    "sinopsis": "Cuando el hijo de un jefe gánster de tiburones es asesinado accidentalmente durante la cacería, su presa y su hermano vegetariano deciden usar el incidente para su propio beneficio.",
+    "generos": ["Animación"],
+    "año": "2004",
+    "imagen": "imagenes/tiburones.png"
+  },
+  {
+    "titulo": "Bichos: Una aventura en miniatura",
+    "sinopsis": "Una hormiga inadaptada, buscando a guerreros que la ayuden a salvar su colonia de unos aterradores saltamontes, recluta a un batallón que resulta ser una troupe de circo.",
+    "generos": ["Animación"],
+    "año": "1998",
+    "imagen": "imagenes/bichos.png"
+  }
+]
