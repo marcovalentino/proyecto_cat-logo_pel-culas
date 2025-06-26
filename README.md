@@ -1,2 +1,2 @@
-El objetivo de este proyecto es crear un catálogo de pleículas facil de leer y manipular, la idea es que se mantenga con uso libre para ser modificado y así sea enriquecido el software.
-Este prorama cuenta con una lista de 30 películas de diferentes epocas, las cuáles se pueden filtrar por genero y al acceder a ellas muestra una imagen correspondiente a la película en cuestión, titulo, género, año y sinopsis de la misma.
+El objetivo de este proyecto es crear un catálogo de películas facil de leer y manipular, la idea es que se mantenga con uso libre para ser modificado y así sea enriquecido el software.
+Este programa cuenta con una lista de 30 películas de diferentes epocas, las cuáles se pueden filtrar por genero y al acceder a ellas muestra una imagen correspondiente a la película en cuestión, titulo, género, año y sinopsis de la misma.
